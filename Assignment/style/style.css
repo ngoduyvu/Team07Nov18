@@ -1,0 +1,237 @@
+/* Global elements */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  margin: 0 0 20px; 
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0; 
+}
+
+h2 {
+  font-size: 1.5em;
+  margin: 0.83em 0; 
+}
+
+h3 {
+  font-size: 1.17em;
+  margin: 1em 0; 
+}
+
+h4 {
+  font-size: 1em;
+  margin: 1.33em 0; 
+}
+
+h5 {
+  font-size: 0.83em;
+  margin: 1.67em 0; 
+}
+
+h6 {
+  font-size: 0.75em;
+  margin: 2.33em 0; 
+}
+
+footer,
+main,
+header
+ {
+  display: block; 
+}
+
+
+body {
+  margin: 0; 
+}
+
+a {
+  background: transparent; 
+}
+a:focus {
+  outline: thin dotted; 
+}
+
+a:hover, a:active {
+    outline: 0; 
+}
+	
+ul, ol {
+  margin: 0;
+  padding-left: 0; 
+}
+
+
+.container {
+	width: 970px; 
+  	margin-right: auto;
+  	margin-left: auto;
+  	padding-left: 15px;
+  	padding-right: 15px;
+  	*zoom: 1; 
+}
+
+.container:after {
+  content: " ";
+  clear: both;
+  display: block;
+  overflow: hidden;
+  height: 0; 
+}
+
+body {
+  background-color: #131a20;
+  background-image: url(dummy/background.jpg);
+  background-position: top center;
+  background-repeat: no-repeat;
+  color: #84878d;
+  font-family: "Roboto", "Open Sans", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: normal; 
+}
+  
+/* Header Styles */
+header{
+	color: red;
+	display: inline-block;
+}
+
+.site-header {
+	padding: 50px 0;
+	margin-left: 15px;
+}
+
+#branding {
+  float: left;
+  display: block; 
+}
+
+#branding .logo, #branding .logo-copy {
+    display: inline-block; 
+}
+
+#branding .logo {
+	width: 40%;
+  	height: 100px;
+    margin-right: 10px; 
+	
+}
+
+#branding .site-title {
+    margin: 0;
+    text-transform: uppercase;
+    color: white;
+    font-size: 16px;
+    font-size: 1.0666666667em; 
+}
+
+#branding .site-title a {
+    color: white; 
+}
+
+#branding .site-description {
+    font-size: 13px;
+    font-size: 0.8666666667em;
+    color: #9198af; 
+}
+
+
+
+/* Main Container */
+.main-content .container {
+  background: white;
+  border-radius: 5px;
+  padding: 30px; }
+  
+
+  
+
+/* Footer Styles */
+.site-footer {
+  padding: 50px 0; 
+}
+
+.site-footer .widget {
+  margin-bottom: 30px; 
+}
+
+.site-footer .widget-title {
+  color: #bec1c8;
+  font-weight: 300; 
+}
+ 
+.site-footer .subscribe-form input[type="text"] {
+	width: 100%;
+    border: 1px solid #bec1c8;
+    background-color: transparent;
+    background-image: url(images/arrow.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    color: inherit;
+    font-size: 13px;
+    font-size: 0.8666666667em;
+    -webkit-transition: .3s ease;
+            transition: .3s ease; 
+}
+
+.site-footer .subscribe-form input[type="text"]:focus, .site-footer .subscribe-form input[type="text"]:hover {
+    border-color: #ffaa3c; 
+}
+
+.site-footer a {
+    color: #84878d;
+    -webkit-transition: .3s ease;
+            transition: .3s ease; 
+}
+
+.site-footer a:hover {
+	color: #ffaa3c; 
+}
+	  
+.site-footer .colophon {
+    padding-top: 30px; 
+}
+
+.row {
+  	margin-left: -15px;
+  	margin-right: -15px;
+  	*zoom: 1; 
+}
+
+.row:after {
+    content: " ";
+    clear: both;
+    display: block;
+    overflow: hidden;
+    height: 0; 
+}
+
+.col-md-2{
+    float: left; 
+}
+	
+.col-md-2 {
+    width: 16.6666666667%; 
+}
+
+.no-bullet {
+  	list-style: none; 
+}
+
+
+
+
+
+
+
+/********************************************** ***************************************/
+
+footer,
+main,
+header
+ {
+  display: block; 
+}
+
