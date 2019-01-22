@@ -5,7 +5,7 @@
 CREATE TABLE if not exists movies
 (
 	Id INT NOT NULL AUTO_INCREMENT, 
-	Title VARCHAR(20) NOT NULL,	
+	Title VARCHAR(30) NOT NULL,	
 	Director VARCHAR(30),
 	Stars VARCHAR(100),
 	Genres VARCHAR(50) NOT NULL,

@@ -220,13 +220,26 @@ header{
   	list-style: none; 
 }
 
+/** For movie detail **/
+#movie_detail_poster {
+	float: left;
+}
+
+#movie_detail_infor {
+	float: left;
+	display: block;
+}
+
+#movie_detail_infor .movie_detail_letters {
+	padding-bottom:0; 
+	margin-bottom:0;
+	margin-left: 5px;
+}
 
 
 
 
-
-
-/********************************************** ***************************************/
+/*************************************** ***************************************/
 
 footer,
 main,
