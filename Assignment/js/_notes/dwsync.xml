@@ -4,4 +4,7 @@
 <file name="read_more.js" server="10.250.0.7//" local="131578776540000000" remote="131907813600000000" Dst="0" />
 <file name="member.js" server="10.250.0.7//" local="131894993842018531" remote="131907813600000000" Dst="0" />
 <file name="image_slider.js" server="10.250.0.7//" local="131925918096207895" remote="131925919200000000" Dst="0" />
+<file name="jquery-1.11.0.min.js" server="10.250.0.7//" local="131925443280000000" remote="131926096200000000" Dst="0" />
+<file name="jquery.magnific-popup.js" server="10.250.0.7//" local="131925443280000000" remote="131926096200000000" Dst="0" />
+<file name="jquery.validate.min.js" server="10.250.0.7//" local="131925443280000000" remote="131926096200000000" Dst="0" />
 </dwsync>

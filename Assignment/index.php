@@ -58,7 +58,26 @@ include_once('include/config.php');
               <a class="carousel-control-next" href="#demo" data-slide="next">
                 <span class="carousel-control-next-icon"></span>
               </a>
-                
+              
+              
+              <!-- Display Movies -->
+              <dev style="display: inline-block;">
+              	  <h2>Upcoming Movies</h2>
+                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Alita-Battle-Angel-2019.jpeg"></a>
+                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/A-Star-Is-Born-2018.jpg"></a>
+                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Avengers-Infinity-War-2018.jpg"></a>
+                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Captain-Marvel-2019.jpeg"></a>
+                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/The-Mule-2018.jpeg"></a>
+                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Bohemian-Rhapsody.jpeg"></a>
+                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Mortal-Engines-2018.jpeg"></a>
+                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/How-to-Train-Your-Dragon-The-Hidden-World-2019.jpeg"></a>
+             </dev>
+              
+              <h2 style="margin-botton: 0px; padding-bottom: 0px;">Most Watching</h2>
+              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Spider-Man-Into-the-Spider-Verse-2018.jpeg"></a>
+              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Aquaman-2018.jpeg"></a>
+              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/the-grinch.jpeg"></a>
+              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Serenity-2019.jpg"></a>
                 
                 
                 

@@ -21,7 +21,7 @@
                                 <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Movie Categories</a>
+                                <a class="nav-link" href="movie.php">Movie Categories</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Become A Member</a>
@@ -30,7 +30,7 @@
                                 <a class="nav-link" href="#">About Us</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Subscription</a>
+                                <a class="nav-link" href="subscription.php">Subscription</a>
                             </li>
                         </ul>
                         <form class="form-inline my-2 my-lg-0">
