@@ -21,7 +21,7 @@
                                 <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="movie.php">Movie Categories</a>
+                                <a class="nav-link" href="movies.php">Movie Categories</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Become A Member</a>
