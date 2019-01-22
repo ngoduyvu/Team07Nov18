@@ -70,28 +70,28 @@ include_once('include/config.php');
               <dev style="display: inline-block;">
               	  <h2>Upcoming Movies</h2>
                   <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Alita-Battle-Angel-2019.jpeg"></a>
-                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/A-Star-Is-Born-2018.jpg"></a>
-                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Avengers-Infinity-War-2018.jpg"></a>
-                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Captain-Marvel-2019.jpeg"></a>
-                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/The-Mule-2018.jpeg"></a>
-                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Bohemian-Rhapsody.jpeg"></a>
-                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Mortal-Engines-2018.jpeg"></a>
-                  <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/How-to-Train-Your-Dragon-The-Hidden-World-2019.jpeg"></a>
+                  <a href="movie_detail.php?id=2"><img class="movies_poster" src="img/movie/A-Star-Is-Born-2018.jpg"></a>
+                  <a href="movie_detail.php?id=4"><img class="movies_poster" src="img/movie/Avengers-Infinity-War-2018.jpg"></a>
+                  <a href="movie_detail.php?id=6"><img class="movies_poster" src="img/movie/Captain-Marvel-2019.jpeg"></a>
+                  <a href="movie_detail.php?id=18"><img class="movies_poster" src="img/movie/The-Mule-2018.jpeg"></a>
+                  <a href="movie_detail.php?id=5"><img class="movies_poster" src="img/movie/Bohemian-Rhapsody.jpeg"></a>
+                  <a href="movie_detail.php?id=11"><img class="movies_poster" src="img/movie/Mortal-Engines-2018.jpeg"></a>
+                  <a href="movie_detail.php?id=8"><img class="movies_poster" src="img/movie/How-to-Train-Your-Dragon-The-Hidden-World-2019.jpeg"></a>
              </dev>
        
               <h2 style="margin-botton: 0px; padding-bottom: 0px;">Current Popular</h2>
-              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Spider-Man-Into-the-Spider-Verse-2018.jpeg"></a>
-              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Aquaman-2018.jpeg"></a>
-              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/the-grinch.jpeg"></a>
-              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Serenity-2019.jpg"></a>
-              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/If-Beale-Street-Could-Talk-2018.jpeg"></a>
-              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Widows-2018.jpeg"></a>
-              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Green-Book-2018.jpeg"></a>
-              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Mary-Queen-of-Scots-2018.jpeg"></a>
-              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/On-the-Basis-of-Sex-2018.jpeg"></a>
-              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Robin-Hood-2018.jpeg"></a>
-              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/The-Kid-Who-Would-Be-King-2019.jpeg"></a>
-              <a href="movie_detail.php?id=1"><img class="movies_poster" src="img/movie/Instant-Family-2018.jpeg"></a>
+              <a href="movie_detail.php?id=15"><img class="movies_poster" src="img/movie/Spider-Man-Into-the-Spider-Verse-2018.jpeg"></a>
+              <a href="movie_detail.php?id=3"><img class="movies_poster" src="img/movie/Aquaman-2018.jpeg"></a>
+              <a href="movie_detail.php?id=16"><img class="movies_poster" src="img/movie/the-grinch.jpeg"></a>
+              <a href="movie_detail.php?id=14"><img class="movies_poster" src="img/movie/Serenity-2019.jpg"></a>
+              <a href="movie_detail.php?id=9"><img class="movies_poster" src="img/movie/If-Beale-Street-Could-Talk-2018.jpeg"></a>
+              <a href="movie_detail.php?id=19"><img class="movies_poster" src="img/movie/Widows-2018.jpeg"></a>
+              <a href="movie_detail.php?id=7"><img class="movies_poster" src="img/movie/Green-Book-2018.jpeg"></a>
+              <a href="movie_detail.php?id=20"><img class="movies_poster" src="img/movie/Mary-Queen-of-Scots-2018.jpeg"></a>
+              <a href="movie_detail.php?id=12"><img class="movies_poster" src="img/movie/On-the-Basis-of-Sex-2018.jpeg"></a>
+              <a href="movie_detail.php?id=13"><img class="movies_poster" src="img/movie/Robin-Hood-2018.jpeg"></a>
+              <a href="movie_detail.php?id=17"><img class="movies_poster" src="img/movie/The-Kid-Who-Would-Be-King-2019.jpeg"></a>
+              <a href="movie_detail.php?id=10"><img class="movies_poster" src="img/movie/Instant-Family-2018.jpeg"></a>
               
     
                 
