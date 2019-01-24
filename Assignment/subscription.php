@@ -91,14 +91,7 @@
 									<input type="hidden" name="cmd" value="_xclick-subscriptions" />
 									<input type="hidden" name="business" value="<?php echo $SETTINGS["paypal_address"]; ?>" />
 									<input type="hidden" name="item_name" value="<?php echo $_POST['Plan']; ?>" />
-									<input type="hidden" name="custom" value="<?php echo $connection->insert_id; ?>" />
-									<input type="hidden" name="currency_code" value="USD" />
-									<input type="hidden" name="lc" value="US" />
-									<input type="hidden" name="no_note" value="1" />
-									<input type="hidden" name="no_shipping" value="1" />
-									<input type="hidden" name="a3" value="<?php echo number_format($_POST['Price'], 2, '.', ''); ?>" />
-									<input type="hidden" name="p3" value="1" />
-									<input type="hidden" name="t3" value="M" />
+									
 								</form>
 							</div>
 							<?php
